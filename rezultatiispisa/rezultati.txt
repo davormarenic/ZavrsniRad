@@ -1,0 +1,391 @@
+Rezultati preporuka za sve pjesme iz data/:
+
+
+--- Pokretanje batch izvještaja ---
+Total files in data/: 55
+
+[1/55] Referentna: 10 - The Empire Strikes Back The Imperial March.wav
+  1. SZA - Good Days (Audio).wav | Sličnost: 96.92%
+  2. Do i Wanna know- Artic Monkeys.wav | Sličnost: 96.36%
+  3. Post Malone ft. Morgan Wallen - I Had Some Help (Official Lyric Video).wav | Sličnost: 95.95%
+  4. We Will Rock You - Queen.wav | Sličnost: 95.76%
+  5. Coldplay - Fix You.wav | Sličnost: 95.57%
+
+[2/55] Referentna: 10. Calvin Harris - Summer (Extended Mix).wav
+  1. Katy Perry - California Gurls.wav | Sličnost: 98.13%
+  2. Avicii- Levels (Audio).wav | Sličnost: 97.94%
+  3. juan-jordan_runaway-remix-extended-version-kanye-west-ft-juan-jordan-pusha-t.wav | Sličnost: 97.79%
+  4. Dua Lipa - Physical.wav | Sličnost: 97.79%
+  5. Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton - Can't Hold Us (feat. Ray Dalton).wav | Sličnost: 97.19%
+
+[3/55] Referentna: 25 Swedish House Mafia Feat John Martin - Don't You Worry Child.wav
+  1. Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton - Can't Hold Us (feat. Ray Dalton).wav | Sličnost: 98.39%
+  2. Avicii- Levels (Audio).wav | Sličnost: 97.54%
+  3. Numb  Encore (Official Audio) - Linkin Park  JAY-Z.wav | Sličnost: 96.54%
+  4. 10. Calvin Harris - Summer (Extended Mix).wav | Sličnost: 96.17%
+  5. Shape of You - Ed Sheeran.wav | Sličnost: 95.91%
+
+[4/55] Referentna: ACDC - Thunderstruck.wav
+  1. Moves like Jagger.wav | Sličnost: 98.16%
+  2. SpotiDown.App - CAN'T STOP THE FEELING! (from DreamWorks Animation's _TROLLS_) - Justin Timberlake.wav | Sličnost: 97.60%
+  3. DJ Tiesto - Adagio For Strings.wav | Sličnost: 97.50%
+  4. Katy Perry - California Gurls.wav | Sličnost: 97.26%
+  5. Nirvana - Smells Like Teen Spirit slowed.wav | Sličnost: 97.06%
+
+[5/55] Referentna: Adele - Someone Like You (Official Music Video).wav
+  1. Shape of You - Ed Sheeran.wav | Sličnost: 88.15%
+  2. Dua Lipa - Physical.wav | Sličnost: 87.45%
+  3. Katy Perry - California Gurls.wav | Sličnost: 86.24%
+  4. In Da Club.wav | Sličnost: 86.21%
+  5. SZA - Good Days (Audio).wav | Sličnost: 86.13%
+
+[6/55] Referentna: Ain't No Sunshine.wav
+  1. Smooth Operator - Sade.wav | Sličnost: 83.14%
+  2. Bôa - Duvet (Official Audio).wav | Sličnost: 80.17%
+  3. Daft Punk - Around the World.wav | Sličnost: 78.35%
+  4. juan-jordan_runaway-remix-extended-version-kanye-west-ft-juan-jordan-pusha-t.wav | Sličnost: 77.62%
+  5. Coldplay - Fix You.wav | Sličnost: 77.62%
+
+[7/55] Referentna: Amy Winehouse - Back To Black.wav
+  1. Martin-Garrix-Animals.wav | Sličnost: 96.99%
+  2. 10. Calvin Harris - Summer (Extended Mix).wav | Sličnost: 95.67%
+  3. Coldplay - Fix You.wav | Sličnost: 95.18%
+  4. In Da Club.wav | Sličnost: 95.11%
+  5. SZA - Good Days (Audio).wav | Sličnost: 95.08%
+
+[8/55] Referentna: Another Love - Tom Odell.wav
+  1. Beethoven - Moonlight Sonata 1st Movement.wav | Sličnost: 87.88%
+  2. Beethoven Symphony No.5 432Hz.wav | Sličnost: 82.11%
+  3. Adele - Someone Like You (Official Music Video).wav | Sličnost: 80.84%
+  4. Clint Mansell - Lux Aeterna (Requiem for a Dream) (1).wav | Sličnost: 71.83%
+  5. 10 - The Empire Strikes Back The Imperial March.wav | Sličnost: 71.55%
+
+[9/55] Referentna: Avicii- Levels (Audio).wav
+  1. Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton - Can't Hold Us (feat. Ray Dalton).wav | Sličnost: 98.19%
+  2. 10. Calvin Harris - Summer (Extended Mix).wav | Sličnost: 97.94%
+  3. Katy Perry - California Gurls.wav | Sličnost: 97.84%
+  4. 25 Swedish House Mafia Feat John Martin - Don't You Worry Child.wav | Sličnost: 97.54%
+  5. Numb  Encore (Official Audio) - Linkin Park  JAY-Z.wav | Sličnost: 97.31%
+
+[10/55] Referentna: Beethoven - Moonlight Sonata 1st Movement.wav
+  1. Another Love - Tom Odell.wav | Sličnost: 87.88%
+  2. Beethoven Symphony No.5 432Hz.wav | Sličnost: 78.18%
+  3. Ain't No Sunshine.wav | Sličnost: 77.44%
+  4. Bôa - Duvet (Official Audio).wav | Sličnost: 76.30%
+  5. Hans Zimmer - Time (Inception Main Theme).wav | Sličnost: 75.06%
+
+[11/55] Referentna: Beethoven Symphony No.5 432Hz.wav
+  1. 10 - The Empire Strikes Back The Imperial March.wav | Sličnost: 94.01%
+  2. Hans Zimmer - Time (Inception Main Theme).wav | Sličnost: 92.75%
+  3. Clint Mansell - Lux Aeterna (Requiem for a Dream) (1).wav | Sličnost: 91.89%
+  4. Do i Wanna know- Artic Monkeys.wav | Sličnost: 91.30%
+  5. SZA - Good Days (Audio).wav | Sličnost: 90.06%
+
+[12/55] Referentna: Before You Go - Lewis Capaldi.wav
+  1. The Next Episode - Dr. Dre, Snoop Dogg.wav | Sličnost: 97.93%
+  2. Michael Jackson Billie Jean.wav | Sličnost: 97.62%
+  3. Hung Up - Madonna.wav | Sličnost: 97.58%
+  4. Smooth Operator - Sade.wav | Sličnost: 97.12%
+  5. Lady Gaga - Poker Face (Official Music Video) 4.wav | Sličnost: 97.07%
+
+[13/55] Referentna: Bill Withers - Ain't No Sunshine (Official Audio).wav
+  1. Bôa - Duvet (Official Audio).wav | Sličnost: 96.81%
+  2. Lose Yourself 4 (2).wav | Sličnost: 94.96%
+  3. DJ Tiesto - Adagio For Strings.wav | Sličnost: 93.41%
+  4. Coldplay - Fix You.wav | Sličnost: 92.44%
+  5. Clint Mansell - Lux Aeterna (Requiem for a Dream) (1).wav | Sličnost: 92.24%
+
+[14/55] Referentna: Blinding Lights - The Weeknd.wav
+  1. Lady Gaga - Poker Face (Official Music Video) 4.wav | Sličnost: 96.90%
+  2. Stronger - Kanye West (Clean Version).wav | Sličnost: 96.49%
+  3. The Next Episode - Dr. Dre, Snoop Dogg.wav | Sličnost: 96.48%
+  4. Numb  Encore (Official Audio) - Linkin Park  JAY-Z.wav | Sličnost: 96.46%
+  5. Before You Go - Lewis Capaldi.wav | Sličnost: 96.29%
+
+[15/55] Referentna: Bôa - Duvet (Official Audio).wav
+  1. Bill Withers - Ain't No Sunshine (Official Audio).wav | Sličnost: 96.81%
+  2. Coldplay - Fix You.wav | Sličnost: 93.44%
+  3. Post Malone ft. Morgan Wallen - I Had Some Help (Official Lyric Video).wav | Sličnost: 92.95%
+  4. 10 - The Empire Strikes Back The Imperial March.wav | Sličnost: 92.88%
+  5. Lose Yourself 4 (2).wav | Sličnost: 92.76%
+
+[16/55] Referentna: Clint Mansell - Lux Aeterna (Requiem for a Dream) (1).wav
+  1. Coldplay - Fix You.wav | Sličnost: 95.63%
+  2. 10 - The Empire Strikes Back The Imperial March.wav | Sličnost: 94.55%
+  3. TNT.wav | Sličnost: 92.65%
+  4. Amy Winehouse - Back To Black.wav | Sličnost: 92.33%
+  5. Bôa - Duvet (Official Audio).wav | Sličnost: 92.27%
+
+[17/55] Referentna: Coldplay - Fix You.wav
+  1. guns-n-roses-songs_guns-n-roses-sweet-child-o-mine.wav | Sličnost: 97.15%
+  2. SZA - Good Days (Audio).wav | Sličnost: 96.71%
+  3. TNT.wav | Sličnost: 95.87%
+  4. Moves like Jagger.wav | Sličnost: 95.76%
+  5. Clint Mansell - Lux Aeterna (Requiem for a Dream) (1).wav | Sličnost: 95.63%
+
+[18/55] Referentna: DJ Tiesto - Adagio For Strings.wav
+  1. Katy Perry - California Gurls.wav | Sličnost: 98.13%
+  2. juan-jordan_runaway-remix-extended-version-kanye-west-ft-juan-jordan-pusha-t.wav | Sličnost: 97.84%
+  3. In Da Club.wav | Sličnost: 97.60%
+  4. ACDC - Thunderstruck.wav | Sličnost: 97.50%
+  5. Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton - Can't Hold Us (feat. Ray Dalton).wav | Sličnost: 97.11%
+
+[19/55] Referentna: Daft Punk - Around the World.wav
+  1. Before You Go - Lewis Capaldi.wav | Sličnost: 96.20%
+  2. Hung Up - Madonna.wav | Sličnost: 96.20%
+  3. The White Stripes - Seven Nation Army.wav | Sličnost: 95.64%
+  4. Post Malone ft. Morgan Wallen - I Had Some Help (Official Lyric Video).wav | Sličnost: 95.57%
+  5. Music sounds better with you - stardust {Lyrics}.wav | Sličnost: 95.25%
+
+[20/55] Referentna: Dancing Queen - Abba.wav
+  1. Lady Gaga - Poker Face (Official Music Video) 4.wav | Sličnost: 97.89%
+  2. SZA - Good Days (Audio).wav | Sličnost: 97.36%
+  3. Avicii- Levels (Audio).wav | Sličnost: 96.42%
+  4. Katy Perry - California Gurls.wav | Sličnost: 96.41%
+  5. guns-n-roses-songs_guns-n-roses-sweet-child-o-mine.wav | Sličnost: 95.87%
+
+[21/55] Referentna: David Guetta, Sia - Titanium (feat. Sia).wav
+  1. Dua Lipa - Physical.wav | Sličnost: 96.90%
+  2. Lady Gaga - Poker Face (Official Music Video) 4.wav | Sličnost: 96.26%
+  3. Katy Perry - California Gurls.wav | Sličnost: 95.48%
+  4. Dancing Queen - Abba.wav | Sličnost: 95.15%
+  5. On & On.wav | Sličnost: 94.73%
+
+[22/55] Referentna: Do i Wanna know- Artic Monkeys.wav
+  1. We Will Rock You - Queen.wav | Sličnost: 97.03%
+  2. Stronger - Kanye West (Clean Version).wav | Sličnost: 96.58%
+  3. 10 - The Empire Strikes Back The Imperial March.wav | Sličnost: 96.36%
+  4. Post Malone ft. Morgan Wallen - I Had Some Help (Official Lyric Video).wav | Sličnost: 96.02%
+  5. Blinding Lights - The Weeknd.wav | Sličnost: 95.25%
+
+[23/55] Referentna: Dua Lipa - Physical.wav
+  1. Katy Perry - California Gurls.wav | Sličnost: 99.29%
+  2. Lady Gaga - Poker Face (Official Music Video) 4.wav | Sličnost: 98.46%
+  3. 10. Calvin Harris - Summer (Extended Mix).wav | Sličnost: 97.79%
+  4. juan-jordan_runaway-remix-extended-version-kanye-west-ft-juan-jordan-pusha-t.wav | Sličnost: 97.55%
+  5. Avicii- Levels (Audio).wav | Sličnost: 97.29%
+
+[24/55] Referentna: Hans Zimmer - Time (Inception Main Theme).wav
+  1. Post Malone ft. Morgan Wallen - I Had Some Help (Official Lyric Video).wav | Sličnost: 97.25%
+  2. Music sounds better with you - stardust {Lyrics}.wav | Sličnost: 95.43%
+  3. 10 - The Empire Strikes Back The Imperial March.wav | Sličnost: 94.35%
+  4. Do i Wanna know- Artic Monkeys.wav | Sličnost: 94.05%
+  5. The White Stripes - Seven Nation Army.wav | Sličnost: 92.99%
+
+[25/55] Referentna: Hung Up - Madonna.wav
+  1. Michael Jackson Billie Jean.wav | Sličnost: 98.81%
+  2. Before You Go - Lewis Capaldi.wav | Sličnost: 97.58%
+  3. In Da Club.wav | Sličnost: 97.51%
+  4. Music sounds better with you - stardust {Lyrics}.wav | Sličnost: 97.49%
+  5. The Next Episode - Dr. Dre, Snoop Dogg.wav | Sličnost: 97.49%
+
+[26/55] Referentna: In Da Club.wav
+  1. DJ Tiesto - Adagio For Strings.wav | Sličnost: 97.60%
+  2. Lady Gaga - Poker Face (Official Music Video) 4.wav | Sličnost: 97.58%
+  3. Hung Up - Madonna.wav | Sličnost: 97.51%
+  4. Katy Perry - California Gurls.wav | Sličnost: 97.31%
+  5. Music sounds better with you - stardust {Lyrics}.wav | Sličnost: 96.95%
+
+[27/55] Referentna: Katy Perry - California Gurls.wav
+  1. Dua Lipa - Physical.wav | Sličnost: 99.29%
+  2. Lady Gaga - Poker Face (Official Music Video) 4.wav | Sličnost: 98.95%
+  3. juan-jordan_runaway-remix-extended-version-kanye-west-ft-juan-jordan-pusha-t.wav | Sličnost: 98.17%
+  4. 10. Calvin Harris - Summer (Extended Mix).wav | Sličnost: 98.13%
+  5. DJ Tiesto - Adagio For Strings.wav | Sličnost: 98.13%
+
+[28/55] Referentna: Lady Gaga - Poker Face (Official Music Video) 4.wav
+  1. Katy Perry - California Gurls.wav | Sličnost: 98.95%
+  2. SZA - Good Days (Audio).wav | Sličnost: 98.52%
+  3. Dua Lipa - Physical.wav | Sličnost: 98.46%
+  4. Martin-Garrix-Animals.wav | Sličnost: 98.01%
+  5. Dancing Queen - Abba.wav | Sličnost: 97.89%
+
+[29/55] Referentna: Linkin Park - In The End.wav
+  1. Amy Winehouse - Back To Black.wav | Sličnost: 88.32%
+  2. TNT.wav | Sličnost: 86.40%
+  3. Nirvana - Smells Like Teen Spirit slowed.wav | Sličnost: 85.88%
+  4. Martin-Garrix-Animals.wav | Sličnost: 85.21%
+  5. Clint Mansell - Lux Aeterna (Requiem for a Dream) (1).wav | Sličnost: 84.47%
+
+[30/55] Referentna: Lose Yourself 4 (2).wav
+  1. DJ Tiesto - Adagio For Strings.wav | Sličnost: 96.98%
+  2. Katy Perry - California Gurls.wav | Sličnost: 96.98%
+  3. juan-jordan_runaway-remix-extended-version-kanye-west-ft-juan-jordan-pusha-t.wav | Sličnost: 96.74%
+  4. Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton - Can't Hold Us (feat. Ray Dalton).wav | Sličnost: 96.74%
+  5. In Da Club.wav | Sličnost: 95.96%
+
+[31/55] Referentna: Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton - Can't Hold Us (feat. Ray Dalton).wav
+  1. 25 Swedish House Mafia Feat John Martin - Don't You Worry Child.wav | Sličnost: 98.39%
+  2. Avicii- Levels (Audio).wav | Sličnost: 98.19%
+  3. Numb  Encore (Official Audio) - Linkin Park  JAY-Z.wav | Sličnost: 97.68%
+  4. 10. Calvin Harris - Summer (Extended Mix).wav | Sličnost: 97.19%
+  5. Katy Perry - California Gurls.wav | Sličnost: 97.19%
+
+[32/55] Referentna: Martin-Garrix-Animals.wav
+  1. Lady Gaga - Poker Face (Official Music Video) 4.wav | Sličnost: 98.01%
+  2. Katy Perry - California Gurls.wav | Sličnost: 97.69%
+  3. SZA - Good Days (Audio).wav | Sličnost: 97.13%
+  4. 10. Calvin Harris - Summer (Extended Mix).wav | Sličnost: 97.12%
+  5. Amy Winehouse - Back To Black.wav | Sličnost: 96.99%
+
+[33/55] Referentna: Michael Jackson Billie Jean.wav
+  1. Hung Up - Madonna.wav | Sličnost: 98.81%
+  2. Before You Go - Lewis Capaldi.wav | Sličnost: 97.62%
+  3. The Next Episode - Dr. Dre, Snoop Dogg.wav | Sličnost: 97.55%
+  4. Music sounds better with you - stardust {Lyrics}.wav | Sličnost: 97.20%
+  5. SpotiDown.App - CAN'T STOP THE FEELING! (from DreamWorks Animation's _TROLLS_) - Justin Timberlake.wav | Sličnost: 97.11%
+
+[34/55] Referentna: Moves like Jagger.wav
+  1. ACDC - Thunderstruck.wav | Sličnost: 98.16%
+  2. Stronger - Kanye West (Clean Version).wav | Sličnost: 98.05%
+  3. SpotiDown.App - CAN'T STOP THE FEELING! (from DreamWorks Animation's _TROLLS_) - Justin Timberlake.wav | Sličnost: 97.43%
+  4. SZA - Good Days (Audio).wav | Sličnost: 96.96%
+  5. Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton - Can't Hold Us (feat. Ray Dalton).wav | Sličnost: 96.40%
+
+[35/55] Referentna: Music sounds better with you - stardust {Lyrics}.wav
+  1. Post Malone ft. Morgan Wallen - I Had Some Help (Official Lyric Video).wav | Sličnost: 98.95%
+  2. The White Stripes - Seven Nation Army.wav | Sličnost: 97.76%
+  3. Hung Up - Madonna.wav | Sličnost: 97.49%
+  4. Michael Jackson Billie Jean.wav | Sličnost: 97.20%
+  5. In Da Club.wav | Sličnost: 96.95%
+
+[36/55] Referentna: Nirvana - Smells Like Teen Spirit slowed.wav
+  1. ACDC - Thunderstruck.wav | Sličnost: 97.06%
+  2. Red Hot Chili Peppers - Californication.wav | Sličnost: 96.73%
+  3. SpotiDown.App - CAN'T STOP THE FEELING! (from DreamWorks Animation's _TROLLS_) - Justin Timberlake.wav | Sličnost: 96.31%
+  4. Katy Perry - California Gurls.wav | Sličnost: 96.06%
+  5. The Next Episode - Dr. Dre, Snoop Dogg.wav | Sličnost: 95.83%
+
+[37/55] Referentna: Numb  Encore (Official Audio) - Linkin Park  JAY-Z.wav
+  1. Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton - Can't Hold Us (feat. Ray Dalton).wav | Sličnost: 97.68%
+  2. Avicii- Levels (Audio).wav | Sličnost: 97.31%
+  3. Stronger - Kanye West (Clean Version).wav | Sličnost: 97.09%
+  4. Still D.R.E.wav | Sličnost: 97.07%
+  5. SpotiDown.App - CAN'T STOP THE FEELING! (from DreamWorks Animation's _TROLLS_) - Justin Timberlake.wav | Sličnost: 96.80%
+
+[38/55] Referentna: On & On.wav
+  1. Lady Gaga - Poker Face (Official Music Video) 4.wav | Sličnost: 96.98%
+  2. Dua Lipa - Physical.wav | Sličnost: 96.25%
+  3. Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton - Can't Hold Us (feat. Ray Dalton).wav | Sličnost: 96.22%
+  4. In Da Club.wav | Sličnost: 96.22%
+  5. Before You Go - Lewis Capaldi.wav | Sličnost: 96.17%
+
+[39/55] Referentna: Post Malone ft. Morgan Wallen - I Had Some Help (Official Lyric Video).wav
+  1. Music sounds better with you - stardust {Lyrics}.wav | Sličnost: 98.95%
+  2. Uptown Funk (feat. Bruno Mars) - Mark Ronson.wav | Sličnost: 97.45%
+  3. The White Stripes - Seven Nation Army.wav | Sličnost: 97.34%
+  4. Hans Zimmer - Time (Inception Main Theme).wav | Sličnost: 97.25%
+  5. Michael Jackson Billie Jean.wav | Sličnost: 97.05%
+
+[40/55] Referentna: Red Hot Chili Peppers - Californication.wav
+  1. The Next Episode - Dr. Dre, Snoop Dogg.wav | Sličnost: 98.03%
+  2. Stronger - Kanye West (Clean Version).wav | Sličnost: 97.66%
+  3. Nirvana - Smells Like Teen Spirit slowed.wav | Sličnost: 96.73%
+  4. SpotiDown.App - CAN'T STOP THE FEELING! (from DreamWorks Animation's _TROLLS_) - Justin Timberlake.wav | Sličnost: 96.39%
+  5. Before You Go - Lewis Capaldi.wav | Sličnost: 96.37%
+
+[41/55] Referentna: SZA - Good Days (Audio).wav
+  1. Lady Gaga - Poker Face (Official Music Video) 4.wav | Sličnost: 98.52%
+  2. Katy Perry - California Gurls.wav | Sličnost: 97.77%
+  3. Dancing Queen - Abba.wav | Sličnost: 97.36%
+  4. Dua Lipa - Physical.wav | Sličnost: 97.23%
+  5. Avicii- Levels (Audio).wav | Sličnost: 97.19%
+
+[42/55] Referentna: Shape of You - Ed Sheeran.wav
+  1. 10. Calvin Harris - Summer (Extended Mix).wav | Sličnost: 96.29%
+  2. Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton - Can't Hold Us (feat. Ray Dalton).wav | Sličnost: 96.09%
+  3. 25 Swedish House Mafia Feat John Martin - Don't You Worry Child.wav | Sličnost: 95.91%
+  4. Stronger - Kanye West (Clean Version).wav | Sličnost: 95.78%
+  5. SpotiDown.App - CAN'T STOP THE FEELING! (from DreamWorks Animation's _TROLLS_) - Justin Timberlake.wav | Sličnost: 95.51%
+
+[43/55] Referentna: Smooth Operator - Sade.wav
+  1. Before You Go - Lewis Capaldi.wav | Sličnost: 97.12%
+  2. Michael Jackson Billie Jean.wav | Sličnost: 96.88%
+  3. Hung Up - Madonna.wav | Sličnost: 96.05%
+  4. The White Stripes - Seven Nation Army.wav | Sličnost: 96.00%
+  5. 10 - The Empire Strikes Back The Imperial March.wav | Sličnost: 94.86%
+
+[44/55] Referentna: SpotiDown.App - CAN'T STOP THE FEELING! (from DreamWorks Animation's _TROLLS_) - Justin Timberlake.wav
+  1. Stronger - Kanye West (Clean Version).wav | Sličnost: 98.46%
+  2. The Next Episode - Dr. Dre, Snoop Dogg.wav | Sličnost: 98.13%
+  3. ACDC - Thunderstruck.wav | Sličnost: 97.60%
+  4. Moves like Jagger.wav | Sličnost: 97.43%
+  5. Hung Up - Madonna.wav | Sličnost: 97.39%
+
+[45/55] Referentna: Still D.R.E.wav
+  1. Numb  Encore (Official Audio) - Linkin Park  JAY-Z.wav | Sličnost: 97.07%
+  2. We Will Rock You - Queen.wav | Sličnost: 95.16%
+  3. Dancing Queen - Abba.wav | Sličnost: 94.95%
+  4. SZA - Good Days (Audio).wav | Sličnost: 94.63%
+  5. Avicii- Levels (Audio).wav | Sličnost: 94.59%
+
+[46/55] Referentna: Stronger - Kanye West (Clean Version).wav
+  1. The Next Episode - Dr. Dre, Snoop Dogg.wav | Sličnost: 98.46%
+  2. SpotiDown.App - CAN'T STOP THE FEELING! (from DreamWorks Animation's _TROLLS_) - Justin Timberlake.wav | Sličnost: 98.46%
+  3. Moves like Jagger.wav | Sličnost: 98.05%
+  4. Red Hot Chili Peppers - Californication.wav | Sličnost: 97.66%
+  5. Numb  Encore (Official Audio) - Linkin Park  JAY-Z.wav | Sličnost: 97.09%
+
+[47/55] Referentna: Super Mario Bros. Theme Song.wav
+  1. Michael Jackson Billie Jean.wav | Sličnost: 92.37%
+  2. DJ Tiesto - Adagio For Strings.wav | Sličnost: 91.29%
+  3. SpotiDown.App - CAN'T STOP THE FEELING! (from DreamWorks Animation's _TROLLS_) - Justin Timberlake.wav | Sličnost: 91.11%
+  4. Post Malone ft. Morgan Wallen - I Had Some Help (Official Lyric Video).wav | Sličnost: 90.91%
+  5. Avicii- Levels (Audio).wav | Sličnost: 90.70%
+
+[48/55] Referentna: TNT.wav
+  1. ACDC - Thunderstruck.wav | Sličnost: 96.56%
+  2. DJ Tiesto - Adagio For Strings.wav | Sličnost: 96.55%
+  3. guns-n-roses-songs_guns-n-roses-sweet-child-o-mine.wav | Sličnost: 96.54%
+  4. Moves like Jagger.wav | Sličnost: 96.22%
+  5. Coldplay - Fix You.wav | Sličnost: 95.87%
+
+[49/55] Referentna: The Next Episode - Dr. Dre, Snoop Dogg.wav
+  1. Stronger - Kanye West (Clean Version).wav | Sličnost: 98.46%
+  2. SpotiDown.App - CAN'T STOP THE FEELING! (from DreamWorks Animation's _TROLLS_) - Justin Timberlake.wav | Sličnost: 98.13%
+  3. Red Hot Chili Peppers - Californication.wav | Sličnost: 98.03%
+  4. Before You Go - Lewis Capaldi.wav | Sličnost: 97.93%
+  5. Michael Jackson Billie Jean.wav | Sličnost: 97.55%
+
+[50/55] Referentna: The White Stripes - Seven Nation Army.wav
+  1. Music sounds better with you - stardust {Lyrics}.wav | Sličnost: 97.76%
+  2. Post Malone ft. Morgan Wallen - I Had Some Help (Official Lyric Video).wav | Sličnost: 97.34%
+  3. Hung Up - Madonna.wav | Sličnost: 97.10%
+  4. Michael Jackson Billie Jean.wav | Sličnost: 96.89%
+  5. Before You Go - Lewis Capaldi.wav | Sličnost: 96.22%
+
+[51/55] Referentna: Uptown Funk (feat. Bruno Mars) - Mark Ronson.wav
+  1. Post Malone ft. Morgan Wallen - I Had Some Help (Official Lyric Video).wav | Sličnost: 97.45%
+  2. SpotiDown.App - CAN'T STOP THE FEELING! (from DreamWorks Animation's _TROLLS_) - Justin Timberlake.wav | Sličnost: 97.24%
+  3. DJ Tiesto - Adagio For Strings.wav | Sličnost: 97.10%
+  4. ACDC - Thunderstruck.wav | Sličnost: 97.02%
+  5. Music sounds better with you - stardust {Lyrics}.wav | Sličnost: 96.51%
+
+[52/55] Referentna: Vivaldi - Four Seasons Winter - Mvt I Allegro non moto.wav
+  1. TNT.wav | Sličnost: 90.84%
+  2. Macklemore, Ryan Lewis, Macklemore & Ryan Lewis, Ray Dalton - Can't Hold Us (feat. Ray Dalton).wav | Sličnost: 90.60%
+  3. DJ Tiesto - Adagio For Strings.wav | Sličnost: 89.98%
+  4. Moves like Jagger.wav | Sličnost: 89.79%
+  5. Numb  Encore (Official Audio) - Linkin Park  JAY-Z.wav | Sličnost: 89.48%
+
+[53/55] Referentna: We Will Rock You - Queen.wav
+  1. Do i Wanna know- Artic Monkeys.wav | Sličnost: 97.03%
+  2. 10 - The Empire Strikes Back The Imperial March.wav | Sličnost: 95.76%
+  3. Blinding Lights - The Weeknd.wav | Sličnost: 95.42%
+  4. Numb  Encore (Official Audio) - Linkin Park  JAY-Z.wav | Sličnost: 95.34%
+  5. Still D.R.E.wav | Sličnost: 95.16%
+
+[54/55] Referentna: guns-n-roses-songs_guns-n-roses-sweet-child-o-mine.wav
+  1. Coldplay - Fix You.wav | Sličnost: 97.15%
+  2. SZA - Good Days (Audio).wav | Sličnost: 96.92%
+  3. DJ Tiesto - Adagio For Strings.wav | Sličnost: 96.87%
+  4. ACDC - Thunderstruck.wav | Sličnost: 96.81%
+  5. TNT.wav | Sličnost: 96.54%
+
+[55/55] Referentna: juan-jordan_runaway-remix-extended-version-kanye-west-ft-juan-jordan-pusha-t.wav
+  1. Katy Perry - California Gurls.wav | Sličnost: 98.17%
+  2. DJ Tiesto - Adagio For Strings.wav | Sličnost: 97.84%
+  3. 10. Calvin Harris - Summer (Extended Mix).wav | Sličnost: 97.79%
+  4. Dua Lipa - Physical.wav | Sličnost: 97.55%
+  5. Martin-Garrix-Animals.wav | Sličnost: 96.89%
+

@@ -1,0 +1,66 @@
+Upute za pokretanje programa `music_recommender`
+
+1) Preduvjeti
+- Python 3.8+ (preporučeno 3.10+)
+- Internet za instalaciju paketa
+- Na macOS: preporučeno imati Homebrew za instalaciju `ffmpeg` (opcionalno)
+
+2) Preporučeni koraci (macOS / Linux)
+- Otvorite terminal i idite u projektni direktorij:
+	cd predaja/music_recommender
+- Napravite virtualno okruženje i aktivirajte ga:
+	python -m venv venv
+	source venv/bin/activate
+- Ažurirajte pip i instalirajte potrebne pakete:
+	pip install --upgrade pip
+	pip install numpy pandas scikit-learn librosa soundfile
+- (Opcionalno) Ako imate problema s učitavanjem audio zapisa, instalirajte `ffmpeg`:
+	brew install ffmpeg
+
+3) Struktura važnih direktorija i datoteka
+- `data/` : mapa u koju stavite .wav datoteke koje želite analizirati
+- `output/music_database.csv` : generirana baza značajki (kreira se automatski)
+- `main.py` : glavni skript koji pokreće preporuke
+- `src/` : moduli (`audio_processor.py`, `database_builder.py`, `similarity.py`)
+
+4) Pokretanje programa
+- Iz direktorija `predaja/music_recommender` pokrenite:
+	python main.py
+- Ako `output/music_database.csv` ne postoji, program će ponuditi opciju generiranja baze.
+	- Odgovorite sa `d` (da) da započne izgradnju baze iz mape `data/`.
+- Nakon što baza postoji, program će tražiti referentnu .wav datoteku:
+	- Povucite .wav datoteku u terminal ili unesite punu/relativnu putanju do .wav datoteke.
+	- Program izračunava značajke referentne datoteke i ispisuje TOP 5 preporuka.
+
+5) Ažuriranje baze podataka
+- Ako ste dodali/uklonili .wav datoteke u `data/`, program može detektirati nesukladnost i ponuditi ažuriranje baze.
+- Ručno možete ponovno izgraditi bazu iz terminala (dok ste u projektu i aktivnom venv):
+	python -c "from src.database_builder import build_database; build_database('data/', 'output/music_database.csv')"
+
+6) Rješavanje problema
+- Ako dobijete pogrešku `ModuleNotFoundError`, provjerite da ste aktivirali virtualno okruženje i instalirali pakete.
+- Ako `librosa` ne može otvoriti datoteku, provjerite da je .wav datoteka ispravna i kompatibilna; instalirajte `ffmpeg` ako je potrebno.
+- Ako je CSV prazan ili je došlo do problema pri ekstrakciji, provjerite ispis u terminalu koji prikazuje koji su fajlovi uspješno obrađeni.
+
+7) Napomene
+- Program radi s .wav datotekama; drugi formati neće biti podržani bez dodatnih kodeka.
+- Preporučeno testiranje s nekoliko manjih .wav datoteka prije pune obrade većih kolekcija.
+
+
+
+8) Točne naredbe za terminal (kopirajte i zalijepite)
+- Otvorite terminal i idite u root projekta
+	cd ../mojroot/music_recommender
+- Napravite i aktivirajte virtualno okruženje:
+	python -m venv venv
+	source venv/bin/activate
+- Ažurirajte `pip` i instalirajte potrebne pakete 
+	python -m pip install --upgrade pip
+	pip install numpy pandas scikit-learn librosa soundfile
+- (macOS: ako `librosa` ima problema s otvaranjem audio datoteka, instalirajte `ffmpeg`):
+	brew install ffmpeg
+- Pokrenite glavni program:
+	python main.py
+
+
+
